@@ -1,4 +1,4 @@
-## Hi there 👋
+I am Ahmet Eren Güllü. A freshman (as of January 27th 2025) at CS department of "Bilkent University" in Turkey.
 
 <!--
 **aerengullu/aerengullu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
